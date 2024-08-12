@@ -1,3 +1,4 @@
+yarn install && yarn add copilot && yarn install && yarn add artificialintelligence && yarn install 
 #sudo su 
 - 👋 Hi, I’m @Codecommander-bot
 - 👀 I’m interested in ... automating the world.
