@@ -1,0 +1,6 @@
+yarn add blackbox && yarn install && 
+yarn add gemini && yarn install && 
+yarn add copilot && yarn install && 
+yarn add claude && yarn install && 
+yarn add transformers && yarn install && 
+npm install
