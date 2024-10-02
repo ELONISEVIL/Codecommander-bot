@@ -1,3 +1,4 @@
+###
 apt install sudo su 
 git clone https://discord.com/developers/applications # sudo su &&
 git clone git://🤖https://openai.com/index/learning-to-reason-with-llms/🤖 && git clone git://https://www.futurepedia.io/tool/stammer?utm_source=stammer_embed### 
